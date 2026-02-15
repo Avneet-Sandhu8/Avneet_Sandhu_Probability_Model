@@ -103,6 +103,3 @@ The estimated probability density function follows a Gaussian-like distribution 
 
 ---
 
----
-
-*Last Updated: February 2026*
